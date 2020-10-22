@@ -10,7 +10,7 @@
 
         fast-forward merge test
 
-
+        ff test
 
 
 
