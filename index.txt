@@ -8,8 +8,7 @@
 
 	resolving commit conflict 
 
-
-
+        fast-forward merge test
 
 
 
